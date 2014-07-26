@@ -5,7 +5,8 @@
 ********************************************
 Author: Shaikh Salman
 Author URI: http://shaikhsalman.net
-Description: It's easy to use
+Description: form element is the best way to use anywhere or in any CMS or Frameworks easily, without any strip tags
+white spaces & etc
 Version: Initial (1.0)
 */
 
