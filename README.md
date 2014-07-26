@@ -40,7 +40,7 @@ echo $form->LABEL('label text goes here#Aclass=label_class');
 ```
 /*
 Input: (type=radio or checkbox or text or password or hidden or submit or etc)
-if you add radio or checkbox then you can use sencond parameter
+if you add radio or checkbox then you can use second parameter
 $args = array('radio 1', 'radio 2');
 */
 echo $form->INPUT('#Atype::password&&placeholder::my password&&class::label_class', $args);
