@@ -7,14 +7,10 @@
 * form validation // not in initail version
 * Much more will be introducing soon!
 
-#Why you might need it
-Every Developers wants the codes which they use 1st easily & 2nd anywhere. just create an array & type 
-their values (should be 'text', 'password' or etc) with or witout keys (should be 0 , 1 or etc) & play foreach loop with given methods.... here you go... your form has been 
-ready with some conditions. see example to better understand.
-
 #Installation & loading
-just copy the file (form.elements.inc.php) of the FORM ELEMENTS folder into somewhere that's in your PHP include_path setting.
-Create a new object that name is FORM_ELEMENT;
+just copy the file (form.elements.inc.php) of the FORM ELEMENTS folder.
+Create a new object
+
 * #A that means, get all attributes which you write next to it
 * && that means, seprate attributes
 * :: that means, set between attribute's property. { property (class) and value (test) (ie: class::test) }
@@ -33,7 +29,6 @@ Create a new object that name is FORM_ELEMENT;
 ```
 required_once('form.elements.inc.php');
 $form = new FORM_ELEMENTS;
-//step by step
 ```
 
 #Label:
